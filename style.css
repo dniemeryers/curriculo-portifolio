@@ -25,7 +25,7 @@ main{
 
 .coluna1 {
 display: inline-block;
-width: 250px;
+width: 200px;
 height: 700px;
 padding-top: 20px;
 background-color: white;
@@ -81,18 +81,19 @@ h3{
 }
 h4{
     color: rgba(0, 0, 0, 0.616);
+    
 }
 h5{
     background-color: black;
     color:aliceblue;
-    width: 200px;
+    width: 150px;
     padding-left: 2px;
 }
 img{
     padding-top: 2px;
 }
 a{
-    text-decoration: none;
+    
     color:black;
 }
 .zap{
@@ -103,10 +104,7 @@ a{
 
 
 
-a::after{
-    content: '\1F517';
 
-}
 .social{
     padding-top: 20px;
     text-decoration: none;
