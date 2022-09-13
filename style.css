@@ -60,7 +60,7 @@ p{
 hr{
     margin-top: 5px;
     size: 5px;
-    width: 190px;
+    width: 210px;
 }
 .inicio{
     padding-top: 17px;
@@ -111,7 +111,7 @@ a{
     display: inline;
 }
 .e-mail{
-    font-size:0.8em;
+    font-size:0.7em;
     display:inline;
 }
 .end{
